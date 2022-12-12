@@ -20,7 +20,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/cronj-dev/uber#readme",
   "dependencies": {
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "leaflet": "^1.6.0",
     "socket.io": "^2.3.0"
   }
